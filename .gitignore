@@ -78,3 +78,7 @@ crashlytics-build.properties
 
 # Meta files
 *.meta
+
+# Other files
+*.psd
+*.mat
