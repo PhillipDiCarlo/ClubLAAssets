@@ -361,6 +361,11 @@
             "Quest_Friendly": "https://stream.vrcdn.live/live/naku.live.ts"
         },
         {
+            "DJ_Name": "NekoChanAi",
+            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nekochanai",
+            "Quest_Friendly": "https://stream.vrcdn.live/live/nekochanai.live.ts"
+        },
+        {
             "DJ_Name": "NickTheNPC",
             "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nickthenpc",
             "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
@@ -406,9 +411,19 @@
             "Quest_Friendly": "https://stream.vrcdn.live/live/pureaffection.live.ts"
         },
         {
+            "DJ_Name": "Reckless",
+            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djrecklesss",
+            "Quest_Friendly": "https://stream.vrcdn.live/live/djrecklesss.live.ts"
+        },
+        {
             "DJ_Name": "Reframinator",
             "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/reframinator",
             "Quest_Friendly": "https://stream.vrcdn.live/live/reframinator.live.ts"
+        },
+        {
+            "DJ_Name": "Resolve",
+            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/theofficialresolve",
+            "Quest_Friendly": "https://stream.vrcdn.live/live/theofficialresolve.live.ts"
         },
         {
             "DJ_Name": "ridley217",
