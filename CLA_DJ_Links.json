@@ -1,636 +1,641 @@
 {
-    "DJs": [
-        {
-            "DJ_Name": "8Bitw0nder",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/8bitw0nder",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/8bitw0nder.live.ts"
-        },
-        {
-            "DJ_Name": "_DUCKK",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/duckk",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/duckk.live.ts"
-        },
-        {
-            "DJ_Name": "Akii",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/akii",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/akii.live.ts"
-        },
-        {
-            "DJ_Name": "Aleksis",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/saucey",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/saucey.live.ts"
-        },
-        {
-            "DJ_Name": "Almosdeff",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/50936794",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/50936794.live.ts"
-        },
-        {
-            "DJ_Name": "Ambrloaf",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ambrloaf",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ambrloaf.live.ts"
-        },
-        {
-            "DJ_Name": "ArcAngel",
-            "Non-Quest_Friendly": "https://www.twitch.tv/arcangelactual",
-            "Quest_Friendly": "https://www.twitch.tv/arcangelactual"
-        },
-        {
-            "DJ_Name": "Atkom",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/atkom",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/atkom.live.ts"
-        },
-        {
-            "DJ_Name": "Auxee",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/auxee",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/auxee.live.ts"
-        },
-        {
-            "DJ_Name": "AXELERATOR",
-            "Non-Quest_Friendly": "https://www.twitch.tv/axlrtr",
-            "Quest_Friendly": "https://www.twitch.tv/axlrtr"
-        },
-        {
-            "DJ_Name": "ayir",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
-        },
-        {
-            "DJ_Name": "Berri",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/itsberrii",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/itsberrii.live.ts"
-        },
-        {
-            "DJ_Name": "Blackstr",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/blackstarre2",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/blackstarre2.live.ts"
-        },
-        {
-            "DJ_Name": "Bobby J",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/bobbyjvr",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/bobbyjvr.live.ts"
-        },
-        {
-            "DJ_Name": "catmelt",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/catm3lt",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/catm3lt.live.ts"
-        },
-        {
-            "DJ_Name": "Cdelansig",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cdelansig",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/cdelansig.live.ts"
-        },
-        {
-            "DJ_Name": "Ceraux",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ceraux",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ceraux.live.ts.live.ts"
-        },
-        {
-            "DJ_Name": "cleo / coolranch47",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nickthenpc",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
-        },
-        {
-            "DJ_Name": "CowsGoMooooooooouwu",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cowsgomooooooooo",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/cowsgomooooooooo.live.ts"
-        },
-        {
-            "DJ_Name": "Crossbone101",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/crossbone101",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/crossbone101.live.ts"
-        },
-        {
-            "DJ_Name": "Dev",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/devscorruptedmind",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/devscorruptedmind.live.ts"
-        },
-        {
-            "DJ_Name": "Dizzzyyy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dizzy",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/dizzy.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Cosmo Raver",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cosmoraver",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/cosmoraver.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Dragons",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jonathan704023",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/jonathan704023.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Drekt",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djdrekt",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djdrekt.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Meowtastic",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djmeowtastic",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djmeowtastic.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Murdokes",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djmurdokes",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djmurdokes.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Pears",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djpears",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djpears.live.ts"
-        },
-        {
-            "DJ_Name": "DJ Precarious",
-            "Non-Quest_Friendly": "https://www.twitch.tv/djprecarious",
-            "Quest_Friendly": "https://www.twitch.tv/djprecarious"
-        },
-        {
-            "DJ_Name": "DJ Pussy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/djpussy",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djpussy.live.ts"
-        },
-        {
-            "DJ_Name": "DPREST",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dprest",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/dprest.live.ts"
-        },
-        {
-            "DJ_Name": "Dug",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dabbindug",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/dabbindug.live.ts"
-        },
-        {
-            "DJ_Name": "Ecstacy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ecstasy",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ecstasy.live.ts.live.ts"
-        },
-        {
-            "DJ_Name": "Electro",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/electrovrc",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/electrovrc.live.ts"
-        },
-        {
-            "DJ_Name": "English Lad",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djenglishlad",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djenglishlad.live.ts"
-        },
-        {
-            "DJ_Name": "Feathermo0n",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/feathermoon",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/feathermoon.live.ts"
-        },
-        {
-            "DJ_Name": "Ferret",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djwokedoggo",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djwokedoggo.live.ts"
-        },
-        {
-            "DJ_Name": "FLEXAS",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/flexas",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/flexas.live.ts"
-        },
-        {
-            "DJ_Name": "FrickedUpVR",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/frickedup",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/frickedup.live.ts"
-        },
-        {
-            "DJ_Name": "Gammaki",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gammaki",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/gammaki.live.ts"
-        },
-        {
-            "DJ_Name": "geoid",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/geoid",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/geoid.live.ts"
-        },
-        {
-            "DJ_Name": "Gh0st",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gh0st7580",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/gh0st7580.live.ts"
-        },
-        {
-            "DJ_Name": "Greave",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/greave",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/greave.live.ts"
-        },
-        {
-            "DJ_Name": "Green elixr",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/greenelixr",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/greenelixr.live.ts"
-        },
-        {
-            "DJ_Name": "GuiGui",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/guigui",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/guigui.live.ts"
-        },
-        {
-            "DJ_Name": "Gyluss",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gyluss",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/gyluss.live.ts"
-        },
-        {
-            "DJ_Name": "Halo",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/halo",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/halo.live.ts"
-        },
-        {
-            "DJ_Name": "Hypno dog",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
-        },
-        {
-            "DJ_Name": "Impeccable",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/impeccable",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/impeccable.live.ts.live.ts"
-        },
-        {
-            "DJ_Name": "Infinitysqaured",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/infsq",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/infsq.live.ts"
-        },
-        {
-            "DJ_Name": "IronBiscuit",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ironbiscuit",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ironbiscuit.live.ts"
-        },
-        {
-            "DJ_Name": "JDJ98",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jdj98",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/jdj98.live.ts"
-        },
-        {
-            "DJ_Name": "JNue",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jnue",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/jnue.live.ts"
-        },
-        {
-            "DJ_Name": "KenoTatsu",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kenotatsu",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/kenotatsu.live.ts"
-        },
-        {
-            "DJ_Name": "Kid_Zodiac",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kidzodiac",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/kidzodiac.live.ts"
-        },
-        {
-            "DJ_Name": "King_Felix",
-            "Non-Quest_Friendly": "https://youtube.com/live/WydSdywWEes",
-            "Quest_Friendly": "https://youtube.com/live/WydSdywWEes"
-        },
-        {
-            "DJ_Name": "KitsuneMixes",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mixify",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/mixify.live.ts"
-        },
-        {
-            "DJ_Name": "Kizzle",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kizzle",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/kizzle.live.ts"
-        },
-        {
-            "DJ_Name": "Last Breaths",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/deagle",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/deagle.live.ts"
-        },
-        {
-            "DJ_Name": "lost melody",
-            "Non-Quest_Friendly": "https://www.twitch.tv/djlostmelody",
-            "Quest_Friendly": "https://www.twitch.tv/djlostmelody"
-        },
-        {
-            "DJ_Name": "LostMelody_",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lostmelody",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/lostmelody.live.ts"
-        },
-        {
-            "DJ_Name": "lunamoonlight",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/memimoonlight",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/memimoonlight.live.ts"
-        },
-        {
-            "DJ_Name": "Lyricals",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lyricals",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/lyricals.live.ts"
-        },
-        {
-            "DJ_Name": "Madlen",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/madlen",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/madlen.live.ts"
-        },
-        {
-            "DJ_Name": "Max Tach",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/maxtach",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/maxtach.live.ts"
-        },
-        {
-            "DJ_Name": "Mayor of Texas",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mayoroftexastest",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/mayoroftexastest.live.ts"
-        },
-        {
-            "DJ_Name": "Mikpwn",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mikpwn",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/mikpwn.live.ts"
-        },
-        {
-            "DJ_Name": "Misshu",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kreyadian",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/kreyadian.live.ts"
-        },
-        {
-            "DJ_Name": "momo",
-            "Non-Quest_Friendly": "https://www.twitch.tv/momo_vrc_",
-            "Quest_Friendly": "https://www.twitch.tv/momo_vrc_"
-        },
-        {
-            "DJ_Name": "MonkeyNBananas",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/monkeynbananas",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/monkeynbananas.live.ts.live.ts"
-        },
-        {
-            "DJ_Name": "MrDubbyWubby",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dubbywubby",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/dubbywubby.live.ts"
-        },
-        {
-            "DJ_Name": "naku",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/naku",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/naku.live.ts"
-        },
-        {
-            "DJ_Name": "NekoChanAi",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nekochanai",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/nekochanai.live.ts"
-        },
-        {
-            "DJ_Name": "NickTheNPC",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nickthenpc",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
-        },
-        {
-            "DJ_Name": "NOXER",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tsurugi",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/tsurugi.live.ts"
-        },
-        {
-            "DJ_Name": "NullCase",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nullcase",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/nullcase.live.ts"
-        },
-        {
-            "DJ_Name": "Oddzef",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/oddzef",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/oddzef.live.ts"
-        },
-        {
-            "DJ_Name": "Orion",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/orion",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/orion.live.ts"
-        },
-        {
-            "DJ_Name": "PizzaPrincess",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/pizzaprincess",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/pizzaprincess.live.ts"
-        },
-        {
-            "DJ_Name": "Po3itlvity",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/po3it1vity",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/po3it1vity.live.ts"
-        },
-        {
-            "DJ_Name": "Propaganda",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/propaganda",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/propaganda.live.ts"
-        },
-        {
-            "DJ_Name": "Pure Affection",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/pureaffection",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/pureaffection.live.ts"
-        },
-        {
-            "DJ_Name": "Reckless",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djrecklesss",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/djrecklesss.live.ts"
-        },
-        {
-            "DJ_Name": "Reframinator",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/reframinator",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/reframinator.live.ts"
-        },
-        {
-            "DJ_Name": "Resolve",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/theofficialresolve",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/theofficialresolve.live.ts"
-        },
-        {
-            "DJ_Name": "ridley217",
-            "Non-Quest_Friendly": "https://www.twitch.tv/ridley217_",
-            "Quest_Friendly": "https://www.twitch.tv/ridley217_"
-        },
-        {
-            "DJ_Name": "ritual",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ritual",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ritual.live.ts"
-        },
-        {
-            "DJ_Name": "RocketVR",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/rocket",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/rocket.live.ts"
-        },
-        {
-            "DJ_Name": "scarlett silver",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/scarlettsilver",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/scarlettsilver.live.ts"
-        },
-        {
-            "DJ_Name": "sebbrah",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sebbrah",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/sebbrah.live.ts"
-        },
-        {
-            "DJ_Name": "ShizukaVR",
-            "Non-Quest_Friendly": "https://twitch.tv/shizukavr",
-            "Quest_Friendly": "https://twitch.tv/shizukavr"
-        },
-        {
-            "DJ_Name": "smiles4u17",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/subsdance",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/subsdance.live.ts"
-        },
-        {
-            "DJ_Name": "SnugglesPrime",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/snugglesprime",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/snugglesprime.live.ts"
-        },
-        {
-            "DJ_Name": "sojujason",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dang",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/dang.live.ts"
-        },
-        {
-            "DJ_Name": "Speculations",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/speculations",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/speculations.live.ts"
-        },
-        {
-            "DJ_Name": "Stayawhile",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/stayawhile",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/stayawhile.live.ts"
-        },
-        {
-            "DJ_Name": "Subashi-Sama",
-            "Non-Quest_Friendly": "https://www.twitch.tv/subashisama",
-            "Quest_Friendly": "https://www.twitch.tv/subashisama"
-        },
-        {
-            "DJ_Name": "Taterz",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/taterz",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/taterz.live.ts"
-        },
-        {
-            "DJ_Name": "TEHNINJABEAR",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tehninjabear",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/tehninjabear.live.ts"
-        },
-        {
-            "DJ_Name": "Twilo",
-            "Non-Quest_Friendly": "https://www.twitch.tv/twilo_vr",
-            "Quest_Friendly": "https://www.twitch.tv/twilo_vr"
-        },
-        {
-            "DJ_Name": "UnrealJourneys",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ritual",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ritual.live.ts"
-        },
-        {
-            "DJ_Name": "Vaizor",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/vaizor",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/vaizor.live.ts"
-        },
-        {
-            "DJ_Name": "VioletLavy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sopra",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/sopra.live.ts"
-        },
-        {
-            "DJ_Name": "VRALITY",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sempra90",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/sempra90.live.ts"
-        },
-        {
-            "DJ_Name": "vroku",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/vroku",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/vroku.live.ts"
-        },
-        {
-            "DJ_Name": "Wert",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/theycallmewert",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/theycallmewert.live.ts"
-        },
-        {
-            "DJ_Name": "Westeeez",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/westeeez",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/westeeez.live.ts"
-        },
-        {
-            "DJ_Name": "Will",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/wabee",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/wabee.live.ts"
-        },
-        {
-            "DJ_Name": "Wo1fie",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/wo1fie",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/wo1fie.live.ts"
-        },
-        {
-            "DJ_Name": "xia",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/xia",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/xia.live.ts"
-        },
-        {
-            "DJ_Name": "Yabasugi",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yabasugi",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/yabasugi.live.ts"
-        },
-        {
-            "DJ_Name": "Yama",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yama",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/yama.live.ts"
-        },
-        {
-            "DJ_Name": "Yumyum Catbuns",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/catbuns",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/catbuns.live.ts"
-        },
-        {
-            "DJ_Name": "Zenji",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zenji",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/zenji.live.ts"
-        },
-        {
-            "DJ_Name": "zeroexcuse",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zeroexcuse",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/zeroexcuse.live.ts"
-        },
-        {
-            "DJ_Name": "zerooneonefour",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/0114",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/0114.live.ts"
-        },
-        {
-            "DJ_Name": "ziggy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ziggy",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/ziggy.live.ts"
-        },
-        {
-            "DJ_Name": "~Prof~",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/prof",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/prof.live.ts"
-        }
-    ],
-    "VJs": [
-        {
-            "VJ_Name": "cultist",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cultist",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/cultist.live.ts"
-        },
-        {
-            "VJ_Name": "Geepot",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gpot",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/gpot.live.ts"
-        },
-        {
-            "VJ_Name": "Lithic",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lithic",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/lithic.live.ts"
-        },
-        {
-            "VJ_Name": "Mathy",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mathy",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/mathy.live.ts.live.ts"
-        },
-        {
-            "VJ_Name": "Medii",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
-        },
-        {
-            "VJ_Name": "Steph",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/softlysteph",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/softlysteph.live.ts"
-        },
-        {
-            "VJ_Name": "teharbitter",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/arbibi",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/arbibi.live.ts"
-        },
-        {
-            "VJ_Name": "Yama",
-            "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yama",
-            "Quest_Friendly": "https://stream.vrcdn.live/live/yama.live.ts"
-        }
-    ]
+  "DJs": [
+    {
+      "DJ_Name": "780Racer",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/780racer",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/780racer.live.ts"
+    },
+    {
+      "DJ_Name": "8Bitw0nder",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/8bitw0nder",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/8bitw0nder.live.ts"
+    },
+    {
+      "DJ_Name": "_DUCKK",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/duckk",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/duckk.live.ts"
+    },
+    {
+      "DJ_Name": "Akii",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/akii",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/akii.live.ts"
+    },
+    {
+      "DJ_Name": "Aleksis",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/saucey",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/saucey.live.ts"
+    },
+    {
+      "DJ_Name": "Almosdeff",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/50936794",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/50936794.live.ts"
+    },
+    {
+      "DJ_Name": "Ambrloaf",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ambrloaf",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ambrloaf.live.ts"
+    },
+    {
+      "DJ_Name": "ArcAngel",
+      "Non-Quest_Friendly": "https://www.twitch.tv/arcangelactual",
+      "Quest_Friendly": "https://www.twitch.tv/arcangelactual"
+    },
+    {
+      "DJ_Name": "Atkom",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/atkom",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/atkom.live.ts"
+    },
+    {
+      "DJ_Name": "Auxee",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/auxee",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/auxee.live.ts"
+    },
+    {
+      "DJ_Name": "AXELERATOR",
+      "Non-Quest_Friendly": "https://www.twitch.tv/axlrtr",
+      "Quest_Friendly": "https://www.twitch.tv/axlrtr"
+    },
+    {
+      "DJ_Name": "ayir",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
+    },
+    {
+      "DJ_Name": "Berri",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/itsberrii",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/itsberrii.live.ts"
+    },
+    {
+      "DJ_Name": "Blackstr",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/blackstarre2",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/blackstarre2.live.ts"
+    },
+    {
+      "DJ_Name": "Bobby J",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/bobbyjvr",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/bobbyjvr.live.ts"
+    },
+    {
+      "DJ_Name": "catmelt",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/catm3lt",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/catm3lt.live.ts"
+    },
+    {
+      "DJ_Name": "Cdelansig",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cdelansig",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/cdelansig.live.ts"
+    },
+    {
+      "DJ_Name": "Ceraux",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ceraux",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ceraux.live.ts.live.ts"
+    },
+    {
+      "DJ_Name": "cleo / coolranch47",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nickthenpc",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
+    },
+    {
+      "DJ_Name": "CowsGoMooooooooouwu",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cowsgomooooooooo",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/cowsgomooooooooo.live.ts"
+    },
+    {
+      "DJ_Name": "Crossbone101",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/crossbone101",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/crossbone101.live.ts"
+    },
+    {
+      "DJ_Name": "Dev",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/devscorruptedmind",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/devscorruptedmind.live.ts"
+    },
+    {
+      "DJ_Name": "Dizzzyyy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dizzy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/dizzy.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Cosmo Raver",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cosmoraver",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/cosmoraver.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Dragons",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jonathan704023",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/jonathan704023.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Drekt",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djdrekt",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djdrekt.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Meowtastic",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djmeowtastic",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djmeowtastic.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Murdokes",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djmurdokes",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djmurdokes.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Pears",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djpears",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djpears.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Precarious",
+      "Non-Quest_Friendly": "https://www.twitch.tv/djprecarious",
+      "Quest_Friendly": "https://www.twitch.tv/djprecarious"
+    },
+    {
+      "DJ_Name": "DJ Pussy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/djpussy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djpussy.live.ts"
+    },
+    {
+      "DJ_Name": "DPREST",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dprest",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/dprest.live.ts"
+    },
+    {
+      "DJ_Name": "Dug",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dabbindug",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/dabbindug.live.ts"
+    },
+    {
+      "DJ_Name": "Ecstacy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ecstasy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ecstasy.live.ts.live.ts"
+    },
+    {
+      "DJ_Name": "Electro",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/electrovrc",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/electrovrc.live.ts"
+    },
+    {
+      "DJ_Name": "English Lad",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djenglishlad",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djenglishlad.live.ts"
+    },
+    {
+      "DJ_Name": "Feathermo0n",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/feathermoon",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/feathermoon.live.ts"
+    },
+    {
+      "DJ_Name": "Ferret",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djwokedoggo",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djwokedoggo.live.ts"
+    },
+    {
+      "DJ_Name": "FLEXAS",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/flexas",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/flexas.live.ts"
+    },
+    {
+      "DJ_Name": "FrickedUpVR",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/frickedup",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/frickedup.live.ts"
+    },
+    {
+      "DJ_Name": "Gammaki",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gammaki",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/gammaki.live.ts"
+    },
+    {
+      "DJ_Name": "geoid",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/geoid",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/geoid.live.ts"
+    },
+    {
+      "DJ_Name": "Gh0st",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gh0st7580",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/gh0st7580.live.ts"
+    },
+    {
+      "DJ_Name": "Greave",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/greave",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/greave.live.ts"
+    },
+    {
+      "DJ_Name": "Green elixr",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/greenelixr",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/greenelixr.live.ts"
+    },
+    {
+      "DJ_Name": "GuiGui",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/guigui",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/guigui.live.ts"
+    },
+    {
+      "DJ_Name": "Gyluss",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gyluss",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/gyluss.live.ts"
+    },
+    {
+      "DJ_Name": "Halo",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/halo",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/halo.live.ts"
+    },
+    {
+      "DJ_Name": "Hypno dog",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
+    },
+    {
+      "DJ_Name": "Impeccable",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/impeccable",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/impeccable.live.ts.live.ts"
+    },
+    {
+      "DJ_Name": "Infinitysqaured",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/infsq",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/infsq.live.ts"
+    },
+    {
+      "DJ_Name": "IronBiscuit",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ironbiscuit",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ironbiscuit.live.ts"
+    },
+    {
+      "DJ_Name": "JDJ98",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jdj98",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/jdj98.live.ts"
+    },
+    {
+      "DJ_Name": "JNue",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jnue",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/jnue.live.ts"
+    },
+    {
+      "DJ_Name": "KenoTatsu",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kenotatsu",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/kenotatsu.live.ts"
+    },
+    {
+      "DJ_Name": "Kid_Zodiac",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kidzodiac",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/kidzodiac.live.ts"
+    },
+    {
+      "DJ_Name": "King_Felix",
+      "Non-Quest_Friendly": "https://youtube.com/live/WydSdywWEes",
+      "Quest_Friendly": "https://youtube.com/live/WydSdywWEes"
+    },
+    {
+      "DJ_Name": "KitsuneMixes",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mixify",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mixify.live.ts"
+    },
+    {
+      "DJ_Name": "Kizzle",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kizzle",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/kizzle.live.ts"
+    },
+    {
+      "DJ_Name": "Last Breaths",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/deagle",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/deagle.live.ts"
+    },
+    {
+      "DJ_Name": "lost melody",
+      "Non-Quest_Friendly": "https://www.twitch.tv/djlostmelody",
+      "Quest_Friendly": "https://www.twitch.tv/djlostmelody"
+    },
+    {
+      "DJ_Name": "LostMelody_",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lostmelody",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/lostmelody.live.ts"
+    },
+    {
+      "DJ_Name": "lunamoonlight",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/memimoonlight",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/memimoonlight.live.ts"
+    },
+    {
+      "DJ_Name": "Lyricals",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lyricals",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/lyricals.live.ts"
+    },
+    {
+      "DJ_Name": "Madlen",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/madlen",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/madlen.live.ts"
+    },
+    {
+      "DJ_Name": "Max Tach",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/maxtach",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/maxtach.live.ts"
+    },
+    {
+      "DJ_Name": "Mayor of Texas",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mayoroftexastest",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mayoroftexastest.live.ts"
+    },
+    {
+      "DJ_Name": "Mikpwn",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mikpwn",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mikpwn.live.ts"
+    },
+    {
+      "DJ_Name": "Misshu",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kreyadian",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/kreyadian.live.ts"
+    },
+    {
+      "DJ_Name": "momo",
+      "Non-Quest_Friendly": "https://www.twitch.tv/momo_vrc_",
+      "Quest_Friendly": "https://www.twitch.tv/momo_vrc_"
+    },
+    {
+      "DJ_Name": "MonkeyNBananas",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/monkeynbananas",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/monkeynbananas.live.ts.live.ts"
+    },
+    {
+      "DJ_Name": "MrDubbyWubby",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dubbywubby",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/dubbywubby.live.ts"
+    },
+    {
+      "DJ_Name": "naku",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/naku",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/naku.live.ts"
+    },
+    {
+      "DJ_Name": "NekoChanAi",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nekochanai",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nekochanai.live.ts"
+    },
+    {
+      "DJ_Name": "NickTheNPC",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nickthenpc",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
+    },
+    {
+      "DJ_Name": "NOXER",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tsurugi",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/tsurugi.live.ts"
+    },
+    {
+      "DJ_Name": "NullCase",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nullcase",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nullcase.live.ts"
+    },
+    {
+      "DJ_Name": "Oddzef",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/oddzef",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/oddzef.live.ts"
+    },
+    {
+      "DJ_Name": "Orion",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/orion",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/orion.live.ts"
+    },
+    {
+      "DJ_Name": "PizzaPrincess",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/pizzaprincess",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/pizzaprincess.live.ts"
+    },
+    {
+      "DJ_Name": "Po3itlvity",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/po3it1vity",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/po3it1vity.live.ts"
+    },
+    {
+      "DJ_Name": "Propaganda",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/propaganda",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/propaganda.live.ts"
+    },
+    {
+      "DJ_Name": "Pure Affection",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/pureaffection",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/pureaffection.live.ts"
+    },
+    {
+      "DJ_Name": "Reckless",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djrecklesss",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djrecklesss.live.ts"
+    },
+    {
+      "DJ_Name": "Reframinator",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/reframinator",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/reframinator.live.ts"
+    },
+    {
+      "DJ_Name": "Resolve",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/theofficialresolve",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/theofficialresolve.live.ts"
+    },
+    {
+      "DJ_Name": "ridley217",
+      "Non-Quest_Friendly": "https://www.twitch.tv/ridley217_",
+      "Quest_Friendly": "https://www.twitch.tv/ridley217_"
+    },
+    {
+      "DJ_Name": "ritual",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ritual",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ritual.live.ts"
+    },
+    {
+      "DJ_Name": "RocketVR",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/rocket",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/rocket.live.ts"
+    },
+    {
+      "DJ_Name": "scarlett silver",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/scarlettsilver",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/scarlettsilver.live.ts"
+    },
+    {
+      "DJ_Name": "sebbrah",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sebbrah",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/sebbrah.live.ts"
+    },
+    {
+      "DJ_Name": "ShizukaVR",
+      "Non-Quest_Friendly": "https://twitch.tv/shizukavr",
+      "Quest_Friendly": "https://twitch.tv/shizukavr"
+    },
+    {
+      "DJ_Name": "smiles4u17",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/subsdance",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/subsdance.live.ts"
+    },
+    {
+      "DJ_Name": "SnugglesPrime",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/snugglesprime",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/snugglesprime.live.ts"
+    },
+    {
+      "DJ_Name": "sojujason",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dang",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/dang.live.ts"
+    },
+    {
+      "DJ_Name": "Speculations",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/speculations",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/speculations.live.ts"
+    },
+    {
+      "DJ_Name": "Stayawhile",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/stayawhile",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/stayawhile.live.ts"
+    },
+    {
+      "DJ_Name": "Subashi-Sama",
+      "Non-Quest_Friendly": "https://www.twitch.tv/subashisama",
+      "Quest_Friendly": "https://www.twitch.tv/subashisama"
+    },
+    {
+      "DJ_Name": "Taterz",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/taterz",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/taterz.live.ts"
+    },
+    {
+      "DJ_Name": "TEHNINJABEAR",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tehninjabear",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/tehninjabear.live.ts"
+    },
+    {
+      "DJ_Name": "Twilo",
+      "Non-Quest_Friendly": "https://www.twitch.tv/twilo_vr",
+      "Quest_Friendly": "https://www.twitch.tv/twilo_vr"
+    },
+    {
+      "DJ_Name": "UnrealJourneys",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ritual",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ritual.live.ts"
+    },
+    {
+      "DJ_Name": "Vaizor",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/vaizor",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/vaizor.live.ts"
+    },
+    {
+      "DJ_Name": "VioletLavy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sopra",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/sopra.live.ts"
+    },
+    {
+      "DJ_Name": "VRALITY",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/sempra90",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/sempra90.live.ts"
+    },
+    {
+      "DJ_Name": "vroku",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/vroku",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/vroku.live.ts"
+    },
+    {
+      "DJ_Name": "Wert",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/theycallmewert",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/theycallmewert.live.ts"
+    },
+    {
+      "DJ_Name": "Westeeez",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/westeeez",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/westeeez.live.ts"
+    },
+    {
+      "DJ_Name": "Will",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/wabee",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/wabee.live.ts"
+    },
+    {
+      "DJ_Name": "Wo1fie",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/wo1fie",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/wo1fie.live.ts"
+    },
+    {
+      "DJ_Name": "xia",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/xia",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/xia.live.ts"
+    },
+    {
+      "DJ_Name": "Yabasugi",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yabasugi",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/yabasugi.live.ts"
+    },
+    {
+      "DJ_Name": "Yama",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yama",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/yama.live.ts"
+    },
+    {
+      "DJ_Name": "Yumyum Catbuns",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/catbuns",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/catbuns.live.ts"
+    },
+    {
+      "DJ_Name": "Zenji",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zenji",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/zenji.live.ts"
+    },
+    {
+      "DJ_Name": "zeroexcuse",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zeroexcuse",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/zeroexcuse.live.ts"
+    },
+    {
+      "DJ_Name": "zerooneonefour",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/0114",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/0114.live.ts"
+    },
+    {
+      "DJ_Name": "ziggy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/ziggy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/ziggy.live.ts"
+    },
+    {
+      "DJ_Name": "~Prof~",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/prof",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/prof.live.ts"
+    }
+  ],
+  "VJs": [
+    {
+      "VJ_Name": "cultist",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cultist",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/cultist.live.ts"
+    },
+    {
+      "VJ_Name": "Geepot",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gpot",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/gpot.live.ts"
+    },
+    {
+      "VJ_Name": "Lithic",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lithic",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/lithic.live.ts"
+    },
+    {
+      "VJ_Name": "Mathy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mathy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mathy.live.ts.live.ts"
+    },
+    {
+      "VJ_Name": "Medii",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/medii",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
+    },
+    {
+      "VJ_Name": "Steph",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/softlysteph",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/softlysteph.live.ts"
+    },
+    {
+      "VJ_Name": "teharbitter",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/arbibi",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/arbibi.live.ts"
+    },
+    {
+      "VJ_Name": "Yama",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yama",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/yama.live.ts"
+    }
+  ]
 }
