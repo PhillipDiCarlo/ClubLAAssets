@@ -1,6 +1,11 @@
 {
   "DJs": [
     {
+      "DJ_Name": "10xx",
+      "Non-Quest_Friendly": "https://twitch.tv/10xxmusic",
+      "Quest_Friendly": "https://twitch.tv/10xxmusic"
+    },
+    {
       "DJ_Name": "780Racer",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/780racer",
       "Quest_Friendly": "https://stream.vrcdn.live/live/780racer.live.ts"
@@ -156,6 +161,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/djpussy.live.ts"
     },
     {
+      "DJ_Name": "DJSeaJay",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djseajay",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djseajay.live.ts"
+    },
+    {
       "DJ_Name": "DPREST",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/dprest",
       "Quest_Friendly": "https://stream.vrcdn.live/live/dprest.live.ts"
@@ -189,6 +199,11 @@
       "DJ_Name": "Ferret",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djwokedoggo",
       "Quest_Friendly": "https://stream.vrcdn.live/live/djwokedoggo.live.ts"
+    },
+    {
+      "DJ_Name": "FetusGrinder",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djfetusgrinder",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djfetusgrinder.live.ts"
     },
     {
       "DJ_Name": "FLEXAS",
@@ -369,6 +384,11 @@
       "DJ_Name": "NekoChanAi",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nekochanai",
       "Quest_Friendly": "https://stream.vrcdn.live/live/nekochanai.live.ts"
+    },
+    {
+      "DJ_Name": "Nekoyori",
+      "Non-Quest_Friendly": "https://www.twitch.tv/nekolovesbees",
+      "Quest_Friendly": "https://www.twitch.tv/nekolovesbees"
     },
     {
       "DJ_Name": "NickTheNPC",
