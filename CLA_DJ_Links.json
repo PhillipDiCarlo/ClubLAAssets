@@ -386,6 +386,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/nekochanai.live.ts"
     },
     {
+      "DJ_Name": "Nekoragon",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nekoragon",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nekoragon.live.ts"
+    },
+    {
       "DJ_Name": "Nekoyori",
       "Non-Quest_Friendly": "https://www.twitch.tv/nekolovesbees",
       "Quest_Friendly": "https://www.twitch.tv/nekolovesbees"
