@@ -66,6 +66,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/medii.live.ts"
     },
     {
+      "DJ_Name": "Bee",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/wabee",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/wabee.live.ts"
+    },
+    {
       "DJ_Name": "Berri",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/itsberrii",
       "Quest_Friendly": "https://stream.vrcdn.live/live/itsberrii.live.ts"
