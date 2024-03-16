@@ -86,6 +86,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/bobbyjvr.live.ts"
     },
     {
+      "DJ_Name": "Carroussel",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/carroussel",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/carroussel.live.ts"
+    },
+    {
       "DJ_Name": "catmelt",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/catm3lt",
       "Quest_Friendly": "https://stream.vrcdn.live/live/catm3lt.live.ts"
@@ -222,8 +227,8 @@
     },
     {
       "DJ_Name": "FrickedUpVR",
-      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/frickedup",
-      "Quest_Friendly": "https://stream.vrcdn.live/live/frickedup.live.ts"
+      "Non-Quest_Friendly": "https://www.twitch.tv/frickedup",
+      "Quest_Friendly": "https://www.twitch.tv/frickedup"
     },
     {
       "DJ_Name": "Gammaki",
