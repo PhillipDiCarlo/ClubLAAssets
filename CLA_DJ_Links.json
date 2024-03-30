@@ -301,6 +301,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/jnue.live.ts"
     },
     {
+      "DJ_Name": "Jyoshuu",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/jyoshu",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/jyoshu.live.ts"
+    },
+    {
       "DJ_Name": "KenoTatsu",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kenotatsu",
       "Quest_Friendly": "https://stream.vrcdn.live/live/kenotatsu.live.ts"
