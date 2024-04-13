@@ -21,6 +21,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/duckk.live.ts"
     },
     {
+      "DJ_Name": "A_Roomba",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/aroombavdj",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/aroombavdj.live.ts"
+    },
+    {
       "DJ_Name": "Akii",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/akii",
       "Quest_Friendly": "https://stream.vrcdn.live/live/akii.live.ts"
