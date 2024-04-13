@@ -371,6 +371,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/mayoroftexastest.live.ts"
     },
     {
+      "DJ_Name": "Mika",
+      "Non-Quest_Friendly": "https://www.twitch.tv/mikavert",
+      "Quest_Friendly": "https://www.twitch.tv/mikavert"
+    },
+    {
       "DJ_Name": "Mikpwn",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mikpwn",
       "Quest_Friendly": "https://stream.vrcdn.live/live/mikpwn.live.ts"
