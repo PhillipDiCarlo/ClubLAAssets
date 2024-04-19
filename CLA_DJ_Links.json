@@ -396,6 +396,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/dubbywubby.live.ts"
     },
     {
+      "DJ_Name": "MuffyTheVamp",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djmuffy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/djmuffy.live.ts"
+    },
+    {
       "DJ_Name": "naku",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/naku",
       "Quest_Friendly": "https://stream.vrcdn.live/live/naku.live.ts"
@@ -665,7 +670,7 @@
     {
       "VJ_Name": "Mathy",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mathy",
-      "Quest_Friendly": "https://stream.vrcdn.live/live/mathy.live.ts.live.ts"
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mathy.live.ts"
     },
     {
       "VJ_Name": "Medii",
