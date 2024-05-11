@@ -116,6 +116,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
     },
     {
+      "DJ_Name": "Conker",
+      "Non-Quest_Friendly": "https://www.twitch.tv/conker5720",
+      "Quest_Friendly": "https://www.twitch.tv/conker5720"
+    },
+    {
       "DJ_Name": "CowsGoMooooooooouwu",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cowsgomooooooooo",
       "Quest_Friendly": "https://stream.vrcdn.live/live/cowsgomooooooooo.live.ts"
@@ -619,6 +624,11 @@
       "DJ_Name": "xia",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/xia",
       "Quest_Friendly": "https://stream.vrcdn.live/live/xia.live.ts"
+    },
+    {
+      "DJ_Name": "Xothika",
+      "Non-Quest_Friendly": "https://www.twitch.tv/Xothika",
+      "Quest_Friendly": "https://www.twitch.tv/Xothika"
     },
     {
       "DJ_Name": "Yabasugi",
