@@ -561,6 +561,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/taterz.live.ts"
     },
     {
+      "DJ_Name": "TatsuTracks",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tatsutracks",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/tatsutracks.live.ts"
+    },
+    {
       "DJ_Name": "TEHNINJABEAR",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tehninjabear",
       "Quest_Friendly": "https://stream.vrcdn.live/live/tehninjabear.live.ts"
