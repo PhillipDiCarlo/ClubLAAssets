@@ -211,6 +211,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/electrovrc.live.ts"
     },
     {
+      "DJ_Name": "Elitemickey",
+      "Non-Quest_Friendly": "https://www.twitch.tv/elitemickeyvr",
+      "Quest_Friendly": "https://www.twitch.tv/elitemickeyvr"
+    },
+    {
       "DJ_Name": "English Lad",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djenglishlad",
       "Quest_Friendly": "https://stream.vrcdn.live/live/djenglishlad.live.ts"
