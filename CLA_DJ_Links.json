@@ -231,6 +231,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/djenglishlad.live.ts"
     },
     {
+      "DJ_Name": "eu_logy",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/eulogy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/eulogy.live.ts"
+    },
+    {
       "DJ_Name": "Feathermo0n",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/feathermoon",
       "Quest_Friendly": "https://stream.vrcdn.live/live/feathermoon.live.ts"
