@@ -131,6 +131,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/crossbone101.live.ts"
     },
     {
+      "DJ_Name": "cultist",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/cultist",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/cultist.live.ts"
+    },
+    {
       "DJ_Name": "Dev",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/devscorruptedmind",
       "Quest_Friendly": "https://stream.vrcdn.live/live/devscorruptedmind.live.ts"
@@ -184,6 +189,11 @@
       "DJ_Name": "DJ Pussy",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/djpussy",
       "Quest_Friendly": "https://stream.vrcdn.live/live/djpussy.live.ts"
+    },
+    {
+      "DJ_Name": "DJ Yes",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/monochrome",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/monochrome.live.ts"
     },
     {
       "DJ_Name": "DJSeaJay",
@@ -246,9 +256,19 @@
       "Quest_Friendly": "https://www.twitch.tv/frickedup"
     },
     {
+      "DJ_Name": "Frostee",
+      "Non-Quest_Friendly": "https://twitch.tv/frostyplayss",
+      "Quest_Friendly": "https://twitch.tv/frostyplayss"
+    },
+    {
       "DJ_Name": "Gammaki",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gammaki",
       "Quest_Friendly": "https://stream.vrcdn.live/live/gammaki.live.ts"
+    },
+    {
+      "DJ_Name": "Geepot",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/gpot",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/gpot.live.ts"
     },
     {
       "DJ_Name": "geoid",
@@ -351,6 +371,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/deagle.live.ts"
     },
     {
+      "DJ_Name": "Lithic",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lithic",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/lithic.live.ts"
+    },
+    {
       "DJ_Name": "lost melody",
       "Non-Quest_Friendly": "https://www.twitch.tv/djlostmelody",
       "Quest_Friendly": "https://www.twitch.tv/djlostmelody"
@@ -399,6 +424,11 @@
       "DJ_Name": "Misshu",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/kreyadian",
       "Quest_Friendly": "https://stream.vrcdn.live/live/kreyadian.live.ts"
+    },
+    {
+      "DJ_Name": "MissNezumi",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/nezulie",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/nezulie.live.ts"
     },
     {
       "DJ_Name": "momo",
@@ -556,6 +586,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/stayawhile.live.ts"
     },
     {
+      "DJ_Name": "Steph",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/softlysteph",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/softlysteph.live.ts"
+    },
+    {
       "DJ_Name": "Subashi-Sama",
       "Non-Quest_Friendly": "https://www.twitch.tv/subashisama",
       "Quest_Friendly": "https://www.twitch.tv/subashisama"
@@ -569,6 +604,11 @@
       "DJ_Name": "TatsuTracks",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tatsutracks",
       "Quest_Friendly": "https://stream.vrcdn.live/live/tatsutracks.live.ts"
+    },
+    {
+      "DJ_Name": "teharbitter",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/arbibi",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/arbibi.live.ts"
     },
     {
       "DJ_Name": "TEHNINJABEAR",
@@ -644,6 +684,11 @@
       "DJ_Name": "Yabasugi",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yabasugi",
       "Quest_Friendly": "https://stream.vrcdn.live/live/yabasugi.live.ts"
+    },
+    {
+      "DJ_Name": "Yama",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/yama",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/yama.live.ts"
     },
     {
       "DJ_Name": "Yama",
