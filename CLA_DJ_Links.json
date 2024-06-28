@@ -557,8 +557,8 @@
     },
     {
       "DJ_Name": "Roxbot",
-      "Non-Quest_Friendly": "https://www.twitch.tv/moxyu ",
-      "Quest_Friendly": "https://www.twitch.tv/moxyu "
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/roxbot",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/roxbot.live.ts"
     },
     {
       "DJ_Name": "scarlett silver",
