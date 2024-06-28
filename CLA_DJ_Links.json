@@ -391,6 +391,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/lostmelody.live.ts"
     },
     {
+      "DJ_Name": "Lulzek",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/lulzek",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/lulzek.live.ts"
+    },
+    {
       "DJ_Name": "lunamoonlight",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/memimoonlight",
       "Quest_Friendly": "https://stream.vrcdn.live/live/memimoonlight.live.ts"
@@ -549,6 +554,11 @@
       "DJ_Name": "RocketVR",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/rocket",
       "Quest_Friendly": "https://stream.vrcdn.live/live/rocket.live.ts"
+    },
+    {
+      "DJ_Name": "Roxbot",
+      "Non-Quest_Friendly": "https://www.twitch.tv/moxyu ",
+      "Quest_Friendly": "https://www.twitch.tv/moxyu "
     },
     {
       "DJ_Name": "scarlett silver",
