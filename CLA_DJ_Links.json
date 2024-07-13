@@ -251,6 +251,11 @@
       "Quest_Friendly": "https://www.twitch.tv/elitemickeyvr"
     },
     {
+      "DJ_Name": "Embex",
+      "Non-Quest_Friendly": "https://www.twitch.tv/embexthebest",
+      "Quest_Friendly": "https://www.twitch.tv/embexthebest"
+    },
+    {
       "DJ_Name": "English Lad",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/djenglishlad",
       "Quest_Friendly": "https://stream.vrcdn.live/live/djenglishlad.live.ts"
@@ -834,6 +839,11 @@
       "DJ_Name": "Zuki",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zukivr",
       "Quest_Friendly": "https://stream.vrcdn.live/live/zukivr.live.ts"
+    },
+    {
+      "DJ_Name": "Zuxi",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/zuxi ",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/zuxi.live.ts"
     },
     {
       "DJ_Name": "~Prof~",
