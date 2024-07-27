@@ -551,6 +551,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/nickthenpc.live.ts"
     },
     {
+      "DJ_Name": "nonXist3nt",
+      "Non-Quest_Friendly": "https://www.twitch.tv/nonxist3nt",
+      "Quest_Friendly": "https://www.twitch.tv/nonxist3nt"
+    },
+    {
       "DJ_Name": "NOXER",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/tsurugi",
       "Quest_Friendly": "https://stream.vrcdn.live/live/tsurugi.live.ts"
@@ -727,8 +732,8 @@
     },
     {
       "DJ_Name": "Twilo",
-      "Non-Quest_Friendly": "https://www.twitch.tv/twilo_vr",
-      "Quest_Friendly": "https://www.twitch.tv/twilo_vr"
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mathy",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mathy.live.ts"
     },
     {
       "DJ_Name": "UltraNeko",
