@@ -431,6 +431,11 @@
       "Quest_Friendly": "https://stream.vrcdn.live/live/lithic.live.ts"
     },
     {
+      "DJ_Name": "Logic.exe",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/logicofficial",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/logicofficial.live.ts"
+    },
+    {
       "DJ_Name": "lost melody",
       "Non-Quest_Friendly": "https://www.twitch.tv/djlostmelody",
       "Quest_Friendly": "https://www.twitch.tv/djlostmelody"
@@ -469,6 +474,11 @@
       "DJ_Name": "Mayor of Texas",
       "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mayoroftexastest",
       "Quest_Friendly": "https://stream.vrcdn.live/live/mayoroftexastest.live.ts"
+    },
+    {
+      "DJ_Name": "McWik",
+      "Non-Quest_Friendly": "rtspt://stream.vrcdn.live/live/mcwik",
+      "Quest_Friendly": "https://stream.vrcdn.live/live/mcwik.live.ts"
     },
     {
       "DJ_Name": "Medlish",
