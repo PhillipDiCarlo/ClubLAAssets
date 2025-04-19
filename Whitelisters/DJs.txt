@@ -47,7 +47,6 @@ VRALITY
 eu_logy
 AAA--ZUSE
 FrickedUpVR
-FrickedUpVR
 Nekoragon
 TatsuTracks
 10xx
