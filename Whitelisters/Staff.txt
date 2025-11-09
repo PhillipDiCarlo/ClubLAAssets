@@ -4,6 +4,3 @@ cccuro
 scomfy
 ~Ropaii~
 McWik
-~Atlas
-A_Roomba
-Atkom
